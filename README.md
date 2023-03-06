@@ -1,1 +1,1 @@
-# TestExerciseForInterview
+Для сборки проекта открыть Visual Studio. Всё. Дальше сами.
